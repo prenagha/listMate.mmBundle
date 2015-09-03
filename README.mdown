@@ -6,8 +6,8 @@ With this bundle you can easily view the archives, see list info and Unsubscribe
 # Installation
 
 ```
-mkdir -p ~/Library/Application Support/MailMate/Bundles
-cd ~/Library/Application Support/MailMate/Bundles
+mkdir -p ~/Library/Application\ Support/MailMate/Bundles
+cd ~/Library/Application\ Support/MailMate/Bundles
 git clone https://github.com/maxandersen/listMate.mmBundle
 ```
 
